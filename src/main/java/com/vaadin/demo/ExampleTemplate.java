@@ -1,10 +1,10 @@
-package com.demo.test;
+package com.vaadin.demo;
 
+import com.vaadin.demo.ExampleTemplate.ExampleModel;
 import com.vaadin.flow.component.Tag;
 import com.vaadin.flow.component.dependency.HtmlImport;
 import com.vaadin.flow.component.polymertemplate.PolymerTemplate;
 import com.vaadin.flow.templatemodel.TemplateModel;
-import com.demo.test.ExampleTemplate.ExampleModel;
 
 /**
  * Simple template example.

@@ -1,4 +1,4 @@
-package com.demo.test;
+package com.vaadin.demo.service;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -8,6 +8,9 @@ import java.util.List;
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import com.vaadin.demo.model.Customer;
+import com.vaadin.demo.model.CustomerStatus;
 
 /**
  * An in memory dummy "database" for the example purposes. In a typical Java app

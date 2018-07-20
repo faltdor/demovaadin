@@ -1,4 +1,4 @@
-package com.demo.test;
+package com.vaadin.demo.model;
 
 import java.io.Serializable;
 
